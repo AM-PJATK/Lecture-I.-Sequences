@@ -1,7 +1,6 @@
 # [Lecture I. Sequences](https://gakko.pjwstk.edu.pl/materialy/259/lec/index01.html)
 
-<div class="tytulpunktu">[1. SEQUENCES](https://gakko.pjwstk.edu.pl/materialy/259/lec/index04.html)</div>
-
+[1. SEQUENCES](https://gakko.pjwstk.edu.pl/materialy/259/lec/index04.html)
   
 <p>First we shall grasp the idea of a sequence intuitively. Let us arrange
 some fixed real numbers, placing them one after another according to a certain
