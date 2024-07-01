@@ -301,12 +301,11 @@ Answer</a>
 
 <details>
   <summary>
-      <p>Answer 1.2:
-</p>
+      <p>Answer 1.2:</p>
   </summary>
 
 <p><img src="https://gakko.pjwstk.edu.pl/materialy/259/lec/an1/Image1612.gif" height="46" width="126"></p>
-<p><img src="[..](https://gakko.pjwstk.edu.pl/materialy/259/lec/an1/Image1627.gif" height="44" width="412"></p>
+<p><img src="https://gakko.pjwstk.edu.pl/materialy/259/lec/an1/Image1627.gif" height="44" width="412"></p>
 <p>The sequence (<i>a<sub>n</sub></i>) is increasing. Let <i>A</i> be
 a fixed number, no matter how big. Since <i>a<sub>n</sub></i> <font
  face="Arial">&gt;</font> n, for n <font face="Arial">&gt;</font> A
