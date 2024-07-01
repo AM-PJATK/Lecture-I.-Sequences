@@ -231,8 +231,6 @@ a</i><sub>n</sub> &#8805; <i>m</i></b> for any <i>n</i> <font face="Arial">&#871
   <li><b>bounded above</b>, if there exists a number <i>M</i> such that <b><i>
 a</i><sub>n</sub> &#8804; <i>M</i></b> for any <i>n</i> <font face="Arial">&#8712;</font>
  <i>N</i>. The number <i>M</i> is called an <b>upper bound</b> of the sequence 
-    
-    <p></p>
    </li>
  
 </ul><a name="EDU.skorowidz.termin sequence unbounded above 4_26"></a> 
@@ -240,8 +238,7 @@ a</i><sub>n</sub> &#8804; <i>M</i></b> for any <i>n</i> <font face="Arial">&#871
 <ul>
    
   <li><b>unbounded below (above)</b>, if it is no bounded below (above). 
-   
-    <p></p>
+  
    </li>
  
 </ul>
