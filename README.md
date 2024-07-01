@@ -136,12 +136,12 @@ n</sub><sub>+2</sub> = <i>c</i><sub>n</sub><sub>+1</sub> + <i>c</i><sub>n</sub>,
   
 <p><i>x</i><sub>1</sub> = 5, <i>x</i><sub>n+</sub><sub>1</sub> = <i>x</i><sub>
 n</sub> + 5, <i>n</i> = 1, 2, ...</p>
-  <a class="ODP" href="javascript:https://gakko.pjwstk.edu.pl/materialy/259/lec/okno%28%27odpowiedzi/odp1_1.htm%27%29">
-Answer</a>
+  
 
 <details>
 
-<summary>Answer 1.1:</summary>
+<summary><a class="ODP" href="javascript:https://gakko.pjwstk.edu.pl/materialy/259/lec/okno%28%27odpowiedzi/odp1_1.htm%27%29">
+Answer 1.1</a>summary>
 <p><i>x<sub>n</sub></i> = 5<i>n</i>, <i>n</i> = 1, 2, ... , -
 arithmetic series with the common remainder <i>r</i> = 5. </p>
 
@@ -296,8 +296,6 @@ and bounded (<i>A </i>= 1). A graph of this sequence is displayed in Fig.1.3.
 <p> <img src="https://gakko.pjwstk.edu.pl/materialy/259/lec/an1/Image1611.gif" align="Center" width="77">
   </p>
 <p>increasing and bounded? </p>
- <a class="ODP" href="javascript:okno2%28%27odpowiedzi/odp1_2.htm%27%29">
-Answer</a>
 
 <details>
   <summary>
@@ -401,14 +399,10 @@ n</sub> &ne; 0, for any <i>n</i> <font face="Arial">&#8712;</font>     <i>N</i><
 <p><img src="https://gakko.pjwstk.edu.pl/materialy/259/lec/an1/Image1629.gif" height="50" width="296">
  </p>
   <a class="ODP" href="javascript:okno%28%27odpowiedzi/odp1_3.htm%27%29">
-Answer</a><br clear="all"><table width="100%" border="0" cellspacing="0" cellpadding="0"><tr><td align="right">&nbsp;<a href="index05.html" target="_top" class="NAWIGACJA">next&nbsp;&#8776;</a></td></tr></table><!--/td-->
-<!--/tr-->
-<!--/table-->
+Answer</a><br clear="all">
 
-<div class="tytulpunktu">2. THE LIMIT OF A SEQUENCE</div>
+## 2. THE LIMIT OF A SEQUENCE 
 
-<p></p>
-  
 <div class="def"> 
 <p><b>Definition</b></p>
   
