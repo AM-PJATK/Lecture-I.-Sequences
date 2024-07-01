@@ -587,9 +587,10 @@ is a subsequence of the sequence of natural numbers.</p>
 <a class="ODP" href="javascript:okno2%28%27odpowiedzi/odp1_6.htm%27%29">Answer</a>
   
 
-<details><p>Answer 1.6:</p>
+<details>
   
-<summary><p>(Proof by contradiction ) Assume that the sequence has the limit <i>g</i>.
+<summary><p>Answer 1.6:</p></summary>
+<p>(Proof by contradiction ) Assume that the sequence has the limit <i>g</i>.
 Let <font face="Arial">&#949;</font> = 1/2 <font face="Arial">&gt;</font>
 0. There exists <font face="Arial">&#948;</font> such that for <i>n</i> <font
  face="Arial">&gt;</font> <font face="Arial">&#948;</font> we have <font
@@ -611,7 +612,7 @@ Let <font face="Arial">&#949;</font> = 1/2 <font face="Arial">&gt;</font>
 <p>It is not possible that (1) and (2) are both true. Thus we got the
 contradiction and the sequence (( <font face="Arial">-</font> 1)<i><sup>n</sup></i>
 ) is divergent. </p>
-</summary>
+
 </details>
 
 
