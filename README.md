@@ -583,10 +583,35 @@ is a subsequence of the sequence of natural numbers.</p>
    
 <p><b>Exercise 1.6 </b></p>
   
-<p>Using the definition show that the sequence ((-1)<sup>n</sup>) has no
-limit.</p>
+<p>Using the definition show that the sequence ((-1)<sup>n</sup>) has no limit.</p>
 <a class="ODP" href="javascript:okno2%28%27odpowiedzi/odp1_6.htm%27%29">Answer</a>
   
-<p><br clear="all"><table width="100%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left"><a href="index04.html" target="_top" class="NAWIGACJA">&#8596;&nbsp;previous</a>&nbsp;</td><td align="right">&nbsp;<a href="index06.html" target="_top" class="NAWIGACJA">next&nbsp;&#8776;</a></td></tr></table><!--/td-->
-<!--/tr-->
-<!--/table-->
+
+<details><p>Answer 1.6:</p>
+  
+<summary><p>(Proof by contradiction ) Assume that the sequence has the limit <i>g</i>.
+Let <font face="Arial">&#949;</font> = 1/2 <font face="Arial">&gt;</font>
+0. There exists <font face="Arial">&#948;</font> such that for <i>n</i> <font
+ face="Arial">&gt;</font> <font face="Arial">&#948;</font> we have <font
+ face="Arial">&#124;</font>
+(<font face="Arial">-</font>
+1 )<i><sup>n</sup></i> <font face="Arial">-</font> <i>g</i><font
+ face="Arial">&#124;</font>
+<font face="Arial">&lt;</font> 1/2. Hence for even <i>n</i>:</p>
+<p><font face="Arial">&#124;</font>
+1 <font face="Arial">-</font> <i>g</i><font face="Arial">&#124;</font>
+<font face="Arial">&lt;</font> 1/2 <font face="Arial">&#8660;</font> 0,5 <font
+ face="Arial">&lt;</font> <i>g</i> <font face="Arial">&lt;</font>
+1,5&nbsp;&nbsp;&nbsp;&nbsp;(1) </p>
+<p>and for odd <i>n</i>: <font face="Arial">&#124;</font>
+<font face="Arial">-</font> 1 - <i>g</i><font face="Arial">&#124;</font>
+<font face="Arial">&lt;</font> 1/2 <font face="Symbol">&#8660;</font> <font
+ face="Symbol">-</font> 1,5 <font face="Arial">&lt;</font> <i>g</i> <font
+ face="Symbol">&lt;</font> 0,5&nbsp;&nbsp;&nbsp;&nbsp;(2) </p>
+<p>It is not possible that (1) and (2) are both true. Thus we got the
+contradiction and the sequence (( <font face="Arial">-</font> 1)<i><sup>n</sup></i>
+) is divergent. </p>
+</summary>
+</details>
+
+
