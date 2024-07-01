@@ -80,16 +80,8 @@ as a function
   <li>The sequence <img src="https://gakko.pjwstk.edu.pl/materialy/259/lec/an1/Image1377.gif" align="Center" height="50" width="38">, <i>n</i> = 0, 1, 2,..., is the well-known<a name="EDU.skorowidz.termin sequence geometric 4_15"></a> 
  geometric progression with the common ratio <i>q</i> = 1/2. Alternative
 notations of this sequence are:       
-    <table align="Center">
-       <tbody>
-         <tr>
-           <td><img src="https://gakko.pjwstk.edu.pl/materialy/259/lec/an1/Image1625.gif" height="50" width="454">
- </td>
-         </tr>
-       
-      </tbody>     
-    </table>
- 	   </li>
+
+<img src="https://gakko.pjwstk.edu.pl/materialy/259/lec/an1/Image1625.gif" height="50" width="454">
  
 </ul>
  
@@ -148,13 +140,15 @@ n</sub> + 5, <i>n</i> = 1, 2, ...</p>
 Answer</a>
 
 <details>
-  <summary>Answer 1.1:</summary>
+
+<summary>Answer 1.1:</summary>
 <p><i>x<sub>n</sub></i> = 5<i>n</i>, <i>n</i> = 1, 2, ... , -
 arithmetic series with the common remainder <i>r</i> = 5. </p>
-  
+
+</details>
+
 <p>A graphical representation of a sequence is its graph, i.e. a set of points
 on a plane</p>
-</details>
   
 <p>{ (<i>n</i>, <i>a</i><sub>n</sub>), <i>n</i> <font face="Arial">&#8712;</font>
  <i>N</i> }. </p>
