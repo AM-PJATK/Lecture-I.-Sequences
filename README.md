@@ -1,4 +1,4 @@
-# Lecture-I.-Sequences
+# Lecture I. Sequences
 
 <div class="tytulpunktu">1. SEQUENCES</div>
   
@@ -298,8 +298,23 @@ and bounded (<i>A </i>= 1). A graph of this sequence is displayed in Fig.1.3.
 <p>increasing and bounded? </p>
  <a class="ODP" href="javascript:okno2%28%27odpowiedzi/odp1_2.htm%27%29">
 Answer</a>
-  
-<p></p>
+
+<details>
+  <summary>
+      <p>Answer 1.2:
+</p>
+  </summary>
+
+<p><img src="https://gakko.pjwstk.edu.pl/materialy/259/lec/an1/Image1612.gif" height="46" width="126"></p>
+<p><img src="[..](https://gakko.pjwstk.edu.pl/materialy/259/lec/an1/Image1627.gif" height="44" width="412"></p>
+<p>The sequence (<i>a<sub>n</sub></i>) is increasing. Let <i>A</i> be
+a fixed number, no matter how big. Since <i>a<sub>n</sub></i> <font
+ face="Arial">&gt;</font> n, for n <font face="Arial">&gt;</font> A
+we have <font face="Arial">&#9122;</font>
+<i>a<sub>n</sub></i> <font face="Arial">&#9122;</font>
+= <i>a<sub>n</sub></i> <font face="Arial">&gt;</font> A. The
+sequence is not bounded.</p>
+</details>
  
 <div class="stwier"> 
 <p><b>Corollary </b> </p>
