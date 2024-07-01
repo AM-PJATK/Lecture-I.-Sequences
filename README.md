@@ -144,22 +144,28 @@ n</sub><sub>+2</sub> = <i>c</i><sub>n</sub><sub>+1</sub> + <i>c</i><sub>n</sub>,
   
 <p><i>x</i><sub>1</sub> = 5, <i>x</i><sub>n+</sub><sub>1</sub> = <i>x</i><sub>
 n</sub> + 5, <i>n</i> = 1, 2, ...</p>
-  <a class="ODP" href="javascript:okno%28%27odpowiedzi/odp1_1.htm%27%29">
+  <a class="ODP" href="javascript:https://gakko.pjwstk.edu.pl/materialy/259/lec/okno%28%27odpowiedzi/odp1_1.htm%27%29">
 Answer</a>
+
+<details>
+  <summary>Answer 1.1:</summary>
+<p><i>x<sub>n</sub></i> = 5<i>n</i>, <i>n</i> = 1, 2, ... , -
+arithmetic series with the common remainder <i>r</i> = 5. </p>
   
 <p>A graphical representation of a sequence is its graph, i.e. a set of points
 on a plane</p>
+</details>
   
 <p>{ (<i>n</i>, <i>a</i><sub>n</sub>), <i>n</i> <font face="Arial">&#8712;</font>
  <i>N</i> }. </p>
-  <img src="rys1/rys_1_1.gif">  
+  <img src="https://gakko.pjwstk.edu.pl/materialy/259/lec/rys1/rys_1_1.gif">  
 <p><b>Fig. 1.1 Graph of the sequence <i>a</i><sub>n</sub> = 0,1· <i>n</i>
 &#8243;</b></p>
   
 <p>The set of elements of the sequence { <i>a</i><sub>n</sub>, <i>n</i> <font face="Arial">
 &#8712;</font> <i>N</i> } can be represented graphically as a subset of a real
 axis. </p>
-  <img src="rys1/rys_1_2.gif">  
+  <img src="https://gakko.pjwstk.edu.pl/materialy/259/lec/rys1/rys_1_2.gif">  
 <p><b>Fig. 1.2 The set of values of the sequence <i>a</i><sub>n</sub> = (-
 1)<sup>n</sup>· 0,1· <i>n</i>&#8243;</b></p>
   
@@ -287,7 +293,7 @@ and bounded (<i>A </i>= 1). A graph of this sequence is displayed in Fig.1.3.
   </li>
  
 </ul>
-  <img src="rys1/rys_1_3.gif">  
+  <img src="https://gakko.pjwstk.edu.pl/materialy/259/lec/rys1/rys_1_3.gif">  
 <p><b>Fig. 1.3 Non-decreasing and bounded sequence</b></p>
   
 <p><b>Exercise 1.2</b> </p>
@@ -315,6 +321,10 @@ Answer</a>
 <p> <a class="ODP" href="javascript:okno2%28%27odpowiedzi/odp_stwier.htm%27%29">
 Proof</a>
   </p>
+
+
+
+  
 <p>A <b>monotone</b> sequence is a sequence that is either<a name="EDU.skorowidz.termin sequence monotone 4_32"></a> 
  non-decreasing or non-increasing, whereas a sequence that is either decreasing
 or increasing<a name="EDU.skorowidz.termin sequence strictly_monotone 4_33"></a> 
@@ -433,7 +443,7 @@ depends on <i>&#949;</i>) all elements of the sequence are contained in the inte
 <p>Hence, looking at the graph of the sequence, we see that the points (<i>n</i>, <i>a</i><sub>n</sub>), <i> n</i> &gt; <i>&#948;</i>, lie within a belt
 of the width 2<i>&#949;</i> (see Fig 1.4). </p>
 
-  <img src="rys1/rys_1_4.gif">
+  <img src="https://gakko.pjwstk.edu.pl/materialy/259/lec/rys1/rys_1_4.gif">
     
 <p><b>Fig. 1.4 Graphical interpretation of the limit of a sequence</b></p>
   
